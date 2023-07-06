@@ -1,0 +1,19 @@
+input[type="file"] {
+  display: none;
+}
+
+.ag-header-cell-label {
+  justify-content: center;
+}
+
+.nav a.active {
+  color: #26a69a;
+}
+
+.ag-center-cols-container {
+  text-align: center;
+}
+
+.ag-header-cell-text {
+  font-size: medium;
+}

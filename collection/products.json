@@ -1,0 +1,1311 @@
+[{
+  "_id": {
+    "$oid": "6496a1f0edb0a6726814b0e6"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593448/images/znfenvxkbejpjy90eyz8.avif",
+  "name": "Carla Ingram",
+  "discountedPrice": 532,
+  "originalPrice": 4881,
+  "description": "qui ducimus occaecavbgfh hgfh gf h gf",
+  "quantity": 705,
+  "gender": "both",
+  "category": "electronics",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T07:57:36.074Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a206edb0a6726814b0e8"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593464/images/hopr7cyempydiyqonrh2.avif",
+  "name": "Samantha Wood",
+  "discountedPrice": 795,
+  "originalPrice": 6231,
+  "description": "vitae quod repudianddfdsfdsfdsfdf",
+  "quantity": 221,
+  "gender": "both",
+  "category": "electronics",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T07:57:58.784Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a216edb0a6726814b0ea"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593487/images/wn19vxwuyiazahwexuqs.webp",
+  "name": "Zena Sanchez",
+  "discountedPrice": 752,
+  "originalPrice": 919,
+  "description": "ullamco eveniet qua ds fds f dsf ",
+  "quantity": 913,
+  "gender": "male",
+  "category": "bottomwear",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-24T07:58:14.354Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a226edb0a6726814b0ec"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593500/images/wwfcltlvyodjwlmdqnns.webp",
+  "name": "Colette Mcconnell",
+  "discountedPrice": 718,
+  "originalPrice": 791,
+  "description": "tempore minima proiasd as das das d a",
+  "quantity": 667,
+  "gender": "male",
+  "category": "bottomwear",
+  "displaySection": "flash sale",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T07:58:30.669Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a236edb0a6726814b0ee"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593525/images/cpf99hve7ubmtlmwqhpj.jpg",
+  "name": "Colin Benjamin",
+  "discountedPrice": 361,
+  "originalPrice": 644,
+  "description": "consectetur exercitasadsadsadsa",
+  "quantity": 171,
+  "gender": "female",
+  "category": "footwear",
+  "displaySection": "top picks",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T07:58:46.855Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a24cedb0a6726814b0f0"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593536/images/irqxaf2nnhxlkfahvsst.jpg",
+  "name": "Glenna Joyce",
+  "discountedPrice": 696,
+  "originalPrice": 2261,
+  "description": "dolore neque asperio s fd ds f ds fsd",
+  "quantity": 746,
+  "gender": "male",
+  "category": "footwear",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-24T07:59:08.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a260edb0a6726814b0f2"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593559/images/o8hlikguci3qpeiswjxx.jpg",
+  "name": "Ezra Stevens",
+  "discountedPrice": 443,
+  "originalPrice": 2871,
+  "description": "molestiae officia do as d as d sa d sa",
+  "quantity": 171,
+  "gender": "both",
+  "category": "footwear",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-24T07:59:28.333Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a270edb0a6726814b0f4"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593578/images/jr7gmagxaqp0tsezfyrm.jpg",
+  "name": "Lara Leon",
+  "discountedPrice": 120,
+  "originalPrice": 157,
+  "description": "accusantium quibusda fd  f dsf dsf ",
+  "quantity": 858,
+  "gender": "male",
+  "category": "footwear",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-24T07:59:44.532Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a30ef682d4d49e59ea4a"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593596/images/adpjkhig3amlpqs1twpz.jpg",
+  "name": "Natalie Gillespie",
+  "discountedPrice": 660,
+  "originalPrice": 6451,
+  "description": "magni sed rerum nihi sf ds f sdf ds",
+  "quantity": 330,
+  "gender": "male",
+  "category": "topwear",
+  "displaySection": "top picks",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-24T08:02:22.576Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a450f682d4d49e59ea80"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687594054/images/jer2skpjszx8j5zoywpg.jpg",
+  "name": "Basil Lamb",
+  "discountedPrice": 105,
+  "originalPrice": 553,
+  "description": "doloremque similique ds f ds fds",
+  "quantity": 876,
+  "gender": "male",
+  "category": "topwear",
+  "displaySection": "top picks",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-24T08:07:44.132Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a49bf682d4d49e59ea86"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687594128/images/lxdy4t5nuqtxnt2qqao5.jpg",
+  "name": "Seth Dominguez",
+  "discountedPrice": 213,
+  "originalPrice": 342,
+  "description": "laboriosam voluptat f  dsf  dsf dsf  dsfds",
+  "quantity": 437,
+  "gender": "male",
+  "category": "topwear",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-24T08:08:59.186Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a4acf682d4d49e59ea88"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687594148/images/yg2kph196fk73opdf5hc.avif",
+  "name": "Lynn Reilly",
+  "discountedPrice": 381,
+  "originalPrice": 974,
+  "description": "dolores duis hic perds f ds f  fsd f",
+  "quantity": 9,
+  "gender": "both",
+  "category": "electronics",
+  "displaySection": "top picks",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T08:09:16.065Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a4bdf682d4d49e59ea8a"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687594167/images/svh0lchl43s2wqwy6wsq.jpg",
+  "name": "Fitzgerald Williamson",
+  "discountedPrice": 422,
+  "originalPrice": 451,
+  "description": "sit rerum explicabosd f dsf ds f sd f sd f sd",
+  "quantity": 713,
+  "gender": "both",
+  "category": "electronics",
+  "displaySection": "flash sale",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T08:09:33.590Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a4d1f682d4d49e59ea8c"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687594186/images/ffrakimunfwwzz6vok2g.jpg",
+  "name": "Brent Mccoy",
+  "discountedPrice": 813,
+  "originalPrice": 830,
+  "description": "a est tempore aut   sd ffds f dsf ds f",
+  "quantity": 664,
+  "gender": "both",
+  "category": "electronics",
+  "displaySection": "flash sale",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-24T08:09:53.477Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a507f682d4d49e59ea92"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687594239/images/exgwnajvvbx1nasxrdjv.jpg",
+  "name": "Kimberley Deleon",
+  "discountedPrice": 576,
+  "originalPrice": 583,
+  "description": "quia est ullam qui xf sd f sdf sd fds ",
+  "quantity": 983,
+  "gender": "female",
+  "category": "topwear",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T08:10:47.263Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a518f682d4d49e59ea94"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687594254/images/acfqnijzmvndcywyxesj.jpg",
+  "name": "Nevada Welch",
+  "discountedPrice": 870,
+  "originalPrice": 7643,
+  "description": "sint assumenda neces dsf ds f s df s df sd",
+  "quantity": 519,
+  "gender": "female",
+  "category": "topwear",
+  "displaySection": "flash sale",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T08:11:04.470Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496a536f682d4d49e59ea98"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687594286/images/xaefpe0u3rysgtulejay.jpg",
+  "name": "Emi Howe",
+  "discountedPrice": 910,
+  "originalPrice": 6793,
+  "description": "distinctio tempor o cxf  sdf  sdf ds f sd",
+  "quantity": 471,
+  "gender": "female",
+  "category": "topwear",
+  "displaySection": "flash sale",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T08:11:34.292Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d2a2f6ad389869823147"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687605917/images/iwjpgu4oqk8gjc2zoqhb.jpg",
+  "name": "Martina Lucas",
+  "discountedPrice": 132,
+  "originalPrice": 961,
+  "description": "rerum nihil aut quae xsf ds f ds f dsf dsf",
+  "quantity": 866,
+  "gender": "male",
+  "category": "electronics",
+  "displaySection": "other",
+  "status": false,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T11:25:22.358Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d2bef6ad389869823149"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687605941/images/dzp2pjwwaondiwasycoc.jpg",
+  "name": "Ariel Mcbride",
+  "discountedPrice": 977,
+  "originalPrice": 6121,
+  "description": "in voluptatem enim pas dfs dfds fds ",
+  "quantity": 339,
+  "gender": "both",
+  "category": "electronics",
+  "displaySection": "flash sale",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T11:25:50.651Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d2d5f6ad38986982314b"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687605963/images/edgmg8mybafu7nt5dcbd.jpg",
+  "name": "Kaye Le",
+  "discountedPrice": 992,
+  "originalPrice": 1673,
+  "description": "recusandae ipsa sedf s f  dsf ds",
+  "quantity": 680,
+  "gender": "male",
+  "category": "topwear",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T11:26:13.616Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d2ecf6ad38986982314d"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687605982/images/t2h3yhkuzlqszzwcyj4v.jpg",
+  "name": "Shelley Perry",
+  "discountedPrice": 745,
+  "originalPrice": 1420,
+  "description": "perspiciatis beataesa d sad msabdj asd",
+  "quantity": 131,
+  "gender": "both",
+  "category": "home and decor",
+  "displaySection": "other",
+  "status": false,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T11:26:36.284Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d57cf6ad38986982314f"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606652/images/cei1hk1sofhe0ke7hzyh.jpg",
+  "name": "Amber Ortiz",
+  "discountedPrice": 854,
+  "originalPrice": 5232,
+  "description": "vel laborum mollitias dfs adf  sf ds",
+  "quantity": 41,
+  "gender": "male",
+  "category": "footwear",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T11:37:32.387Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d58bf6ad389869823151"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606661/images/e8svrq79ctdpveemhnxr.jpg",
+  "name": "Vincent Owen",
+  "discountedPrice": 244,
+  "originalPrice": 557,
+  "description": "est et quasi consequ fd s fsd fs df",
+  "quantity": 519,
+  "gender": "both",
+  "category": "electronics",
+  "displaySection": "other",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T11:37:47.961Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d59af6ad389869823153"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606677/images/neh4pw9hsinfktbbqmjm.jpg",
+  "name": "Tasha Bernard",
+  "discountedPrice": 580,
+  "originalPrice": 840,
+  "description": "in et duis maiores az zd sa d sad",
+  "quantity": 238,
+  "gender": "both",
+  "category": "electronics",
+  "displaySection": "flash sale",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T11:38:02.821Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d5abf6ad389869823155"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606691/images/pc7ioztlwf9spxjxzyhp.jpg",
+  "name": "Deirdre Zimmerman",
+  "discountedPrice": 999,
+  "originalPrice": 2922,
+  "description": "quos veniam quisquasa d sa df sd f  sdf",
+  "quantity": 555,
+  "gender": "both",
+  "category": "electronics",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T11:38:19.023Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d5bbf6ad389869823157"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606707/images/cggeczsbsr9twg0qiaet.jpg",
+  "name": "Ima Bradshaw home",
+  "discountedPrice": 731,
+  "originalPrice": 5712,
+  "description": "earum eligendi est ad sa d sa d home and living decor",
+  "quantity": 156,
+  "gender": "both",
+  "category": "home and decor",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T11:38:35.803Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d5ccf6ad389869823159"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606725/images/odi4attnpdivpow1j0fq.jpg",
+  "name": "Jorden Mays",
+  "discountedPrice": 841,
+  "originalPrice": 3822,
+  "description": "nobis est autem commas d sa ds ad sa",
+  "quantity": 529,
+  "gender": "both",
+  "category": "home and decor",
+  "displaySection": "flash sale",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T11:38:52.717Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d5dbf6ad38986982315b"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606741/images/ipnrgvatap70cavcbs9i.jpg",
+  "name": "Addison Hess",
+  "discountedPrice": 366,
+  "originalPrice": 2772,
+  "description": "accusantium irure mosa dsa das d",
+  "quantity": 537,
+  "gender": "both",
+  "category": "home and decor",
+  "displaySection": "other",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T11:39:07.766Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d5edf6ad38986982315d"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606758/images/jgjsvc3qsg1xmptsos3u.jpg",
+  "name": "Hayfa Ewing",
+  "discountedPrice": 448,
+  "originalPrice": 970,
+  "description": "et ratione pariaturasfd sd f ds",
+  "quantity": 586,
+  "gender": "both",
+  "category": "home and decor",
+  "displaySection": "top picks",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T11:39:25.049Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d5fbf6ad38986982315f"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606774/images/x2nuatz7kw2gcpmnuuzv.jpg",
+  "name": "Winter Curry",
+  "discountedPrice": 92,
+  "originalPrice": 318,
+  "description": "pariatur sed nihil  cs f ds g dfsg",
+  "quantity": 608,
+  "gender": "male",
+  "category": "topwear",
+  "displaySection": "other",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T11:39:39.656Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d60cf6ad389869823161"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606792/images/ukigspxxqyqtkj0svt2l.jpg",
+  "name": "Cally Walsh",
+  "discountedPrice": 379,
+  "originalPrice": 895,
+  "description": "in mollit ea ad saep xxbnfvklklm",
+  "quantity": 661,
+  "gender": "female",
+  "category": "topwear",
+  "displaySection": "trending now",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T11:39:56.505Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d62cf6ad389869823163"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606816/images/j3tbusjmv3vxmstuhs8i.jpg",
+  "name": "Kerry Davidson",
+  "discountedPrice": 338,
+  "originalPrice": 472,
+  "description": "qui id enim vel vol xcjv vhj erhj",
+  "quantity": 119,
+  "gender": "male",
+  "category": "topwear",
+  "displaySection": "flash sale",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T11:40:28.909Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d64df6ad389869823165"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606845/images/i0pk0j1rbrzftrmxhkz6.jpg",
+  "name": "Sylvester Pugh",
+  "discountedPrice": 219,
+  "originalPrice": 532,
+  "description": "ipsa rerum inciduntsdfdsg fdg fd g",
+  "quantity": 371,
+  "gender": "female",
+  "category": "topwear",
+  "displaySection": "top picks",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-24T11:41:01.329Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6496d671f6ad389869823167"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687606890/images/xim5gwwyigx96bixubad.jpg",
+  "name": "Kimberly Roy",
+  "discountedPrice": 817,
+  "originalPrice": 2202,
+  "description": "exercitationem quia sa dsadsad",
+  "quantity": 155,
+  "gender": "both",
+  "category": "electronics",
+  "displaySection": "flash sale",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-24T11:41:37.600Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d210b31dfa56cc1a53c34"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019190/images/m1trxjzi2krixiqhibcv.jpg",
+  "name": "Magna quam tenetur v",
+  "discountedPrice": 125,
+  "originalPrice": 653,
+  "description": "quia in velit molesds vxxdzsf vdcxz v",
+  "quantity": 822,
+  "gender": "female",
+  "category": "footwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:13:31.078Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d212d31dfa56cc1a53c36"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019232/images/ll7owigzj3bbmcundcbh.jpg",
+  "name": "Quia vel iusto sunt ",
+  "discountedPrice": 438,
+  "originalPrice": 953,
+  "description": "inventore pariatur c bfdcx bfvcx",
+  "quantity": 67,
+  "gender": "female",
+  "category": "footwear",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-29T06:14:05.714Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d22db31dfa56cc1a53c3b"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019656/images/prnn8nilvdmj8idszlry.jpg",
+  "name": "Nisi inventore sed e",
+  "discountedPrice": 669,
+  "originalPrice": 869,
+  "description": "ut earum nisi et dol dsfgd gfd",
+  "quantity": 771,
+  "gender": "female",
+  "category": "footwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:21:15.898Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d22f031dfa56cc1a53c3d"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019681/images/gulwig8vxjtkrlzgj2wr.jpg",
+  "name": "Ullamco sunt eius et",
+  "discountedPrice": 490,
+  "originalPrice": 2542,
+  "description": "eum voluptatem sunt n vvcn vbgnvbg",
+  "quantity": 816,
+  "gender": "female",
+  "category": "footwear",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-29T06:21:36.099Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d230331dfa56cc1a53c3f"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019700/images/tjcerukkokfoskcdbx8a.jpg",
+  "name": "Inventore in vero of",
+  "discountedPrice": 960,
+  "originalPrice": 1602,
+  "description": "repudiandae cum aliq vncf vggjg",
+  "quantity": 533,
+  "gender": "female",
+  "category": "footwear",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-29T06:21:55.447Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d231731dfa56cc1a53c41"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019719/images/rsmmcibjlzjawb7vtghl.jpg",
+  "name": "Proident deserunt s",
+  "discountedPrice": 266,
+  "originalPrice": 341,
+  "description": "autem molestiae blan vnbc vbgcxvb",
+  "quantity": 256,
+  "gender": "female",
+  "category": "footwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:22:15.946Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d233831dfa56cc1a53c43"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019743/images/fethbefpvabqg4ipyyzb.jpg",
+  "name": "Ea nisi quaerat sunt",
+  "discountedPrice": 963,
+  "originalPrice": 1960,
+  "description": "dolor dicta omnis pefcbvfb fffs",
+  "quantity": 138,
+  "gender": "female",
+  "category": "footwear",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-29T06:22:48.630Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d238031dfa56cc1a53c54"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019824/images/qymakf5m01amcaccwiqh.jpg",
+  "name": "Quis expedita pariat",
+  "discountedPrice": 809,
+  "originalPrice": 1492,
+  "description": "voluptatem omnis nec nfcg vbgh",
+  "quantity": 657,
+  "gender": "female",
+  "category": "footwear",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-29T06:24:00.615Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d239831dfa56cc1a53c56"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019844/images/t4km4d9aehzjlj9o8ht4.jpg",
+  "name": "Labore cillum fuga ",
+  "discountedPrice": 638,
+  "originalPrice": 2341,
+  "description": "nisi officiis eos ic bfv vggnn",
+  "quantity": 149,
+  "gender": "female",
+  "category": "footwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:24:24.079Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d23aa31dfa56cc1a53c58"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019872/images/gqqbjbymm9mkoxicd6dx.jpg",
+  "name": "Quaerat voluptates f",
+  "discountedPrice": 205,
+  "originalPrice": 546,
+  "description": "nostrum nulla ipsam  vfvgn ggfn gf",
+  "quantity": 160,
+  "gender": "male",
+  "category": "footwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:24:42.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d23b931dfa56cc1a53c5a"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019886/images/qotpwuf0g6xn50mfljgp.jpg",
+  "name": "Blanditiis corrupti",
+  "discountedPrice": 902,
+  "originalPrice": 1162,
+  "description": "elit eu amet quis xz vbfxdbfdn ",
+  "quantity": 740,
+  "gender": "male",
+  "category": "footwear",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-29T06:24:57.874Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d23cf31dfa56cc1a53c5c"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019904/images/xgpmx6ti26zrjf5kslhq.jpg",
+  "name": "Doloremque dolore au",
+  "discountedPrice": 520,
+  "originalPrice": 580,
+  "description": "quo pariatur alias xd vbfc bcfb",
+  "quantity": 879,
+  "gender": "male",
+  "category": "footwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:25:19.345Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d23e731dfa56cc1a53c5e"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019923/images/xdt0i3ndb8pxvkvsarbl.jpg",
+  "name": "Voluptates et laudan",
+  "discountedPrice": 551,
+  "originalPrice": 907,
+  "description": "hic voluptates fugitdcxv bdfcx b",
+  "quantity": 806,
+  "gender": "male",
+  "category": "footwear",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-29T06:25:43.432Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d23fc31dfa56cc1a53c60"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019950/images/ieyccrv0xks8sbx30tku.jpg",
+  "name": "Earum aliquid blandi",
+  "discountedPrice": 782,
+  "originalPrice": 1246,
+  "description": "veritatis velit aliqvn vnbbgjykjm ",
+  "quantity": 484,
+  "gender": "male",
+  "category": "footwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:26:04.239Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d240f31dfa56cc1a53c62"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019969/images/hnpguegxkbdjdasxjxe7.jpg",
+  "name": "Et placeat sequi of",
+  "discountedPrice": 345,
+  "originalPrice": 381,
+  "description": "est nemo molestias av b vgvng bvgn ",
+  "quantity": 769,
+  "gender": "male",
+  "category": "footwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:26:23.101Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d241b31dfa56cc1a53c64"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688019987/images/cvu9e9nlj85jgkuoa7df.jpg",
+  "name": "Dolore tempora ut qu",
+  "discountedPrice": 196,
+  "originalPrice": 442,
+  "description": "reprehenderit expedi cdf bcfngf",
+  "quantity": 752,
+  "gender": "both",
+  "category": "footwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:26:35.842Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d25ef31dfa56cc1a53c68"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020444/images/dp9k0ohqjksnex03zsh8.webp",
+  "name": "Sed sit sunt sit ill",
+  "discountedPrice": 657,
+  "originalPrice": 972,
+  "description": "molestiae qui eos udfc bfd bnhfn vcfg",
+  "quantity": 184,
+  "gender": "female",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-29T06:34:23.627Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d260331dfa56cc1a53c6a"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020467/images/pz1s6qjkr5zl5gg3wkww.webp",
+  "name": "Unde voluptate aut e",
+  "discountedPrice": 824,
+  "originalPrice": 1228,
+  "description": "aut rerum nisi nobisdx vdfcxb fv",
+  "quantity": 963,
+  "gender": "female",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:34:43.578Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d261431dfa56cc1a53c6c"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020486/images/o1y3gonxzgaarijoxxmz.webp",
+  "name": "Voluptatem deserunt",
+  "discountedPrice": 695,
+  "originalPrice": 1102,
+  "description": "neque blanditiis ali cbcxvcng gn ",
+  "quantity": 546,
+  "gender": "both",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-29T06:35:00.213Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d262431dfa56cc1a53c6e"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020502/images/abyxxnbnn44kugp9fh2q.webp",
+  "name": "Fugiat voluptatem c",
+  "discountedPrice": 458,
+  "originalPrice": 762,
+  "description": "voluptatum cillum ve cbnvgbvg bvbh",
+  "quantity": 728,
+  "gender": "male",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:35:16.076Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d263531dfa56cc1a53c70"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020519/images/b8lobxxo2woc27cj3p0f.webp",
+  "name": "Eos eligendi iure sa",
+  "discountedPrice": 81,
+  "originalPrice": 212,
+  "description": "duis vel ipsum reici vnvvng bb m ",
+  "quantity": 663,
+  "gender": "male",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:35:33.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d264731dfa56cc1a53c72"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020538/images/vkn0pepggalokswmrzyg.webp",
+  "name": "Mollitia in magnam a",
+  "discountedPrice": 770,
+  "originalPrice": 1742,
+  "description": "vel omnis praesentiu cfvvcgnmbvgmf",
+  "quantity": 78,
+  "gender": "male",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:35:51.522Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d265a31dfa56cc1a53c74"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020555/images/xxllxe9t45ucnznwyk1z.webp",
+  "name": "Amet id quibusdam d",
+  "discountedPrice": 960,
+  "originalPrice": 1582,
+  "description": "ducimus saepe qui l vbnvbnmgf bfvghm",
+  "quantity": 511,
+  "gender": "male",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-29T06:36:10.876Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d266b31dfa56cc1a53c76"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020575/images/ihd9gz9lcg4ekbijvjbv.webp",
+  "name": "Dolorum laboriosam ",
+  "discountedPrice": 551,
+  "originalPrice": 1422,
+  "description": "quasi eos non earum  cbf vng b",
+  "quantity": 911,
+  "gender": "female",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:36:27.198Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d267931dfa56cc1a53c78"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020590/images/zmnx523tq33areqkdens.webp",
+  "name": "Rerum est nemo comm",
+  "discountedPrice": 501,
+  "originalPrice": 1592,
+  "description": "non hic perferendis  vbcvbnvbgbvg",
+  "quantity": 901,
+  "gender": "female",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-29T06:36:41.964Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d268a31dfa56cc1a53c7a"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020607/images/np4j1flyhxjpzion28oy.webp",
+  "name": "Molestias accusamus ",
+  "discountedPrice": 135,
+  "originalPrice": 653,
+  "description": "ea est dolor reprehc bfcv vfgn",
+  "quantity": 845,
+  "gender": "female",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:36:58.063Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d269831dfa56cc1a53c7c"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020622/images/j9hwwi0vtiyfl1uvbwre.webp",
+  "name": "Non ipsum asperiores",
+  "discountedPrice": 352,
+  "originalPrice": 913,
+  "description": "animi soluta optio c nfcvnggfc v",
+  "quantity": 68,
+  "gender": "female",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:37:12.352Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d26ab31dfa56cc1a53c7e"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688020635/images/c5fxjvrsxcsf4phscnbm.webp",
+  "name": "Ratione quia facere ",
+  "discountedPrice": 887,
+  "originalPrice": 1245,
+  "description": "tenetur aliqua qui vnvbmcg vb b ",
+  "quantity": 679,
+  "gender": "female",
+  "category": "bottomwear",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-29T06:37:31.027Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d28de31dfa56cc1a53ce5"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688021194/images/mvhxlnqy6pxrbhgbh8gx.jpg",
+  "name": "Pariatur Neque expl",
+  "discountedPrice": 805,
+  "originalPrice": 1025,
+  "description": "vero accusantium magx dvbc vnvfg",
+  "quantity": 822,
+  "gender": "male",
+  "category": "topwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:46:54.125Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d28f131dfa56cc1a53ce7"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688021217/images/zuhsol4u2urpba59vqwk.jpg",
+  "name": "Sed consectetur anim",
+  "discountedPrice": 234,
+  "originalPrice": 577,
+  "description": "et et consequatur qu cbvfc vngv",
+  "quantity": 135,
+  "gender": "female",
+  "category": "topwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:47:13.257Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d290931dfa56cc1a53ce9"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688021236/images/nnf84txdcfomyqbcv6dv.jpg",
+  "name": "Repellendus Itaque ",
+  "discountedPrice": 324,
+  "originalPrice": 337,
+  "description": "asperiores pariatur cnvbgnbvg gn bvg",
+  "quantity": 317,
+  "gender": "female",
+  "category": "topwear",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-29T06:47:37.150Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d291b31dfa56cc1a53ceb"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688021260/images/qf7tavyo2jm6dj3ahjnl.jpg",
+  "name": "Aliquam hic velit re",
+  "discountedPrice": 502,
+  "originalPrice": 859,
+  "description": "commodo corporis dolxfn vnfcgvgb nbvg",
+  "quantity": 922,
+  "gender": "female",
+  "category": "topwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:47:55.437Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d293331dfa56cc1a53ced"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688021279/images/ftuf83uufqwivyfdj0kq.jpg",
+  "name": "Vitae in anim sit n",
+  "discountedPrice": 243,
+  "originalPrice": 540,
+  "description": "itaque dolore labori cbvngvbgn",
+  "quantity": 536,
+  "gender": "male",
+  "category": "topwear",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-29T06:48:19.020Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d294a31dfa56cc1a53cef"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688021305/images/dhv73hzjk3lde3iu3qhk.jpg",
+  "name": "Officia quia nulla c",
+  "discountedPrice": 582,
+  "originalPrice": 973,
+  "description": "est omnis sit delecvn vncgbvgnm vbg",
+  "quantity": 537,
+  "gender": "female",
+  "category": "topwear",
+  "status": true,
+  "badge": "top",
+  "recordDate": {
+    "$date": "2023-06-29T06:48:42.174Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d295731dfa56cc1a53cf1"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688021326/images/c5agcasvhafxpk3pmept.jpg",
+  "name": "Facilis numquam cons",
+  "discountedPrice": 384,
+  "originalPrice": 864,
+  "description": "animi rerum quia pa cvxn vgn vbg",
+  "quantity": 34,
+  "gender": "female",
+  "category": "topwear",
+  "status": true,
+  "badge": "sale",
+  "recordDate": {
+    "$date": "2023-06-29T06:48:55.927Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d296531dfa56cc1a53cf3"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688021339/images/dokv5ijodhzoo9xii478.jpg",
+  "name": "Quidem iste velit vi",
+  "discountedPrice": 346,
+  "originalPrice": 397,
+  "description": "natus numquam dolore fxc vfgn gnm ",
+  "quantity": 105,
+  "gender": "female",
+  "category": "topwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:49:09.193Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649d297c31dfa56cc1a53cf5"
+  },
+  "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1688021355/images/fwlei2ehcseyk8gypfqi.jpg",
+  "name": "Dolores ut iste in l",
+  "discountedPrice": 632,
+  "originalPrice": 802,
+  "description": "voluptate totam exceid ipsum vel volupt ",
+  "quantity": 372,
+  "gender": "female",
+  "category": "topwear",
+  "status": true,
+  "badge": "trending",
+  "recordDate": {
+    "$date": "2023-06-29T06:49:32.058Z"
+  },
+  "__v": 0
+}]

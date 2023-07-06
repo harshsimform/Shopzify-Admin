@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "6496a92abe924e7700275a2a"
+  },
+  "userId": {
+    "$oid": "647f122db403fc0b6b6abc0d"
+  },
+  "products": [
+    {
+      "productId": "6496a226edb0a6726814b0ec",
+      "category": "bottomwear",
+      "description": "tempore minima proiasd as das das d a",
+      "discountedPrice": 718,
+      "gender": "male",
+      "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593500/images/wwfcltlvyodjwlmdqnns.webp",
+      "name": "Colette Mcconnell",
+      "originalPrice": 791,
+      "cartQty": 1,
+      "_id": {
+        "$oid": "64a537aedeed4fbd4163ed57"
+      }
+    },
+    {
+      "productId": "6496a507f682d4d49e59ea92",
+      "category": "topwear",
+      "description": "quia est ullam qui xf sd f sdf sd fds ",
+      "discountedPrice": 576,
+      "gender": "female",
+      "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687594239/images/exgwnajvvbx1nasxrdjv.jpg",
+      "name": "Kimberley Deleon",
+      "originalPrice": 583,
+      "cartQty": 1,
+      "_id": {
+        "$oid": "64a537b1deed4fbd4163ed5e"
+      }
+    }
+  ],
+  "__v": 79
+},{
+  "_id": {
+    "$oid": "6496b396504686fd90db9a84"
+  },
+  "userId": {
+    "$oid": "6484079b2074afd79a471f31"
+  },
+  "products": [],
+  "__v": 8
+},{
+  "_id": {
+    "$oid": "6496e6e9f03ec9c7c55b9c43"
+  },
+  "userId": {
+    "$oid": "6480c0fa4cde93a8f714bd58"
+  },
+  "products": [],
+  "__v": 9
+},{
+  "_id": {
+    "$oid": "64971443f03ec9c7c55b9e0f"
+  },
+  "userId": {
+    "$oid": "64971438f03ec9c7c55b9e06"
+  },
+  "products": [],
+  "__v": 10
+},{
+  "_id": {
+    "$oid": "6497155cf03ec9c7c55b9ec6"
+  },
+  "userId": {
+    "$oid": "64971553f03ec9c7c55b9ebd"
+  },
+  "products": [],
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "6497164cf03ec9c7c55b9f4b"
+  },
+  "userId": {
+    "$oid": "6497162cf03ec9c7c55b9f42"
+  },
+  "products": [],
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "64980098eaa1a21f17931026"
+  },
+  "userId": {
+    "$oid": "6498008beaa1a21f1793101d"
+  },
+  "products": [
+    {
+      "productId": "6496a206edb0a6726814b0e8",
+      "category": "consequat soluta pr",
+      "description": "vitae quod repudianddfdsfdsfdsfdf",
+      "discountedPrice": 795,
+      "gender": "female",
+      "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593464/images/hopr7cyempydiyqonrh2.avif",
+      "name": "Samantha Wood",
+      "originalPrice": 6231,
+      "cartQty": 1,
+      "_id": {
+        "$oid": "649801a1eaa1a21f179310a4"
+      }
+    },
+    {
+      "productId": "6496a236edb0a6726814b0ee",
+      "category": "numquam eveniet omn",
+      "description": "consectetur exercitasadsadsadsa",
+      "discountedPrice": 361,
+      "gender": "both",
+      "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593525/images/cpf99hve7ubmtlmwqhpj.jpg",
+      "name": "Colin Benjamin",
+      "originalPrice": 644,
+      "cartQty": 1,
+      "_id": {
+        "$oid": "649801a7eaa1a21f179310ad"
+      }
+    }
+  ],
+  "__v": 8
+},{
+  "_id": {
+    "$oid": "6499126aefca23abc0039a70"
+  },
+  "userId": {
+    "$oid": "6492fe9b329b2bee5b9a22ba"
+  },
+  "products": [],
+  "__v": 34
+},{
+  "_id": {
+    "$oid": "649aa6aeb028f53fb86d4a04"
+  },
+  "userId": {
+    "$oid": "648011e19364c708dc23d2d6"
+  },
+  "products": [],
+  "__v": 12
+},{
+  "_id": {
+    "$oid": "649c42a7ec388ec30e0d962b"
+  },
+  "userId": {
+    "$oid": "649c4255ec388ec30e0d960c"
+  },
+  "products": [
+    {
+      "productId": "6496a4f6f682d4d49e59ea90",
+      "category": "electronics",
+      "description": "veniam vero nesciunsd fsd f ds f d vcx ",
+      "discountedPrice": 985,
+      "gender": "female",
+      "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687594221/images/yoeh3o7aulmnnltv9smt.jpg",
+      "name": "Cullen Trujillo",
+      "originalPrice": 6323,
+      "cartQty": 1,
+      "_id": {
+        "$oid": "649c42a7ec388ec30e0d962d"
+      }
+    },
+    {
+      "productId": "6496a30ef682d4d49e59ea4a",
+      "category": "topwear",
+      "description": "magni sed rerum nihi sf ds f sdf ds",
+      "discountedPrice": 660,
+      "gender": "male",
+      "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593596/images/adpjkhig3amlpqs1twpz.jpg",
+      "name": "Natalie Gillespie",
+      "originalPrice": 6451,
+      "cartQty": 1,
+      "_id": {
+        "$oid": "649c6459b71d5a9d93767e51"
+      }
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "649dc6942f35ef7b8fa307de"
+  },
+  "userId": {
+    "$oid": "649d7d368d3641d950ca36df"
+  },
+  "products": [
+    {
+      "productId": "6496a236edb0a6726814b0ee",
+      "category": "footwear",
+      "description": "consectetur exercitasadsadsadsa",
+      "discountedPrice": 361,
+      "gender": "female",
+      "image": "https://res.cloudinary.com/dcstijhci/image/upload/v1687593525/images/cpf99hve7ubmtlmwqhpj.jpg",
+      "name": "Colin Benjamin",
+      "originalPrice": 644,
+      "cartQty": 1,
+      "_id": {
+        "$oid": "64a52e95a8b242538e4f25eb"
+      }
+    }
+  ],
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "649e9272112ee9866e81ce79"
+  },
+  "userId": {
+    "$oid": "649e9267112ee9866e81ce6b"
+  },
+  "products": [],
+  "__v": 19
+}]

@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "649bff6688f2a5915ba0ff28"
+  },
+  "menu": "MEN",
+  "subMenus": [
+    {
+      "sublabel": "Topwear",
+      "description": "Trending Design to inspire you",
+      "_id": {
+        "$oid": "649d5b3dd987e3cfbb89ed3d"
+      }
+    },
+    {
+      "sublabel": "Bottomwear",
+      "description": "Up-and-coming Designers",
+      "_id": {
+        "$oid": "649c1e0b7a828c6dc7db7c9c"
+      }
+    },
+    {
+      "sublabel": "Footwear",
+      "description": "Up-and-coming Designers",
+      "_id": {
+        "$oid": "649c1e147a828c6dc7db7ca0"
+      }
+    }
+  ],
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "649c1e1d7a828c6dc7db7ca4"
+  },
+  "menu": "WOMEN",
+  "subMenus": [
+    {
+      "sublabel": "Topwear",
+      "description": "Up-and-coming Designers",
+      "_id": {
+        "$oid": "649c1e787a828c6dc7db7cba"
+      }
+    },
+    {
+      "sublabel": "Bottomwear",
+      "description": "Up-and-coming Designers",
+      "_id": {
+        "$oid": "649d272631dfa56cc1a53c9c"
+      }
+    },
+    {
+      "sublabel": "Footwear",
+      "description": "Trending Design to inspire you",
+      "_id": {
+        "$oid": "649fb8727e75527dbd0d9913"
+      }
+    }
+  ],
+  "__v": 11
+},{
+  "_id": {
+    "$oid": "649c20a7e17690cb81fb08e5"
+  },
+  "menu": "ELECTRONICS",
+  "subMenus": [],
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "649eb1450034ddd6bfda73b6"
+  },
+  "menu": "HOME AND DECOR",
+  "subMenus": [],
+  "__v": 2
+}]
