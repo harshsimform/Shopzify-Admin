@@ -85,6 +85,14 @@ REFRESH_TOKEN=
 
 Make sure to fill in the values for each variable accordingly.
 
+### MongoDB Setup
+
+To set up the MongoDB database, follow the steps below:
+
+1. Obtain the JSON file containing the collection data from the /collection folder in this repository.
+2. Import the JSON file into your MongoDB new cluster.
+3. Copy the cluster link (database access URL) and paste it in the .env file as the value for DATABASE_URL.
+
 ## Installing Dependencies
 
 Install the backend dependencies by running the following command:
